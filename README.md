@@ -1,7 +1,3 @@
-Here's a README file for your project based on the extracted details:  
-
----
-
 # **Predictive Modeling of Bank Marketing Campaign Success**  
 
 ## **Project Overview**  
